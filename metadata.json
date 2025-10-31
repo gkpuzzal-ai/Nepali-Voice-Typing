@@ -1,0 +1,7 @@
+{
+  "name": "Nepali Voice Typing and Messaging Tool",
+  "description": "A professional tool for real-time Nepali voice-to-text transcription and messaging, enhanced with AI features for correction, sentiment analysis, and translation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
